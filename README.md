@@ -28,7 +28,8 @@ focuses on large language models, inference acceleration, and efficient AI syste
 
 ## Experience
 
-**浙江大学创新技术研究院 - 迅速智能：**算法实习生
+**浙江大学创新技术研究院 - 迅速智能**
+算法实习生
 
 *Jun 2025 - Jul 2026*
 
